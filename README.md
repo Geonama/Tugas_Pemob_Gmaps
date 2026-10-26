@@ -57,6 +57,10 @@ flutter analyze
 flutter test
 ```
 
+## Berkas pengumpulan
+
+[PDF kode utama dan screenshot](output/pdf/Tugas_Pemob_Geonama_Huda_Rahfa.pdf) berisi bagian kode penting dan hasil aplikasi.
+
 ## Tampilan
 
 ![Tampilan peta](hasil/02-halaman-maps.png)

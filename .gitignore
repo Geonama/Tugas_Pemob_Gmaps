@@ -53,3 +53,4 @@ app.*.map.json
 # Paket hasil build dan salinan proyek
 /hasil/*.apk
 /hasil/*.zip
+/tmp/
